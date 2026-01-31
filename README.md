@@ -432,3 +432,29 @@ Part of the [bad-antics](https://github.com/bad-antics) security ecosystem
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github)](https://github.com/bad-antics)
 
 </div>
+
+---
+
+## 🛠️ Additional Project Documentation
+
+### NullSec Ecosystem
+
+| Project | Description | Docs |
+|---------|-------------|------|
+| **NullSec Linux** | Security-focused Linux distribution with 135+ tools | [📖 Docs](docs/nullsec-linux/README.md) |
+| **Marshall Browser** | Privacy-focused browser with Tor integration | [📖 Docs](docs/marshall/README.md) |
+| **NullKia** | Mobile security framework in 12 languages | [📖 Docs](docs/nullkia/README.md) |
+| **BlackFlag ECU** | Automotive security and ECU diagnostics | [📖 Docs](docs/blackflag/README.md) |
+| **NullSec Tools** | Multi-language penetration testing toolkit | [📖 Docs](docs/nullsec-tools/README.md) |
+
+### Quick Links
+
+- [NullSec Linux Download](https://github.com/bad-antics/nullsec-linux/releases)
+- [Marshall Browser Download](https://github.com/bad-antics/marshall/releases)
+- [NullKia Installation](https://github.com/bad-antics/nullkia)
+- [BlackFlag ECU Suite](https://github.com/bad-antics/blackflag-ecu)
+- [NullSec Tools Collection](https://github.com/bad-antics/nullsec-tools)
+
+---
+
+*Documentation maintained by bad-antics | All tools for authorized security testing only*
