@@ -394,7 +394,7 @@ nullsec-update --check
 
 - **Documentation**: https://github.com/bad-antics/nullsec-linux/wiki
 - **Issues**: https://github.com/bad-antics/nullsec-linux/issues
-- **Discord**: discord.gg/killers
+- **Twitter**: x.com/AnonAntics
 
 ---
 
